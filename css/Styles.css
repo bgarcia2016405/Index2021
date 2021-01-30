@@ -47,6 +47,7 @@ div.Texto{
 #menuNav li{
     display: inline;
 }
+
 #menuNav li a{
     text-decoration: none;
     float: left;
